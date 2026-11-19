@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+
+# Generated at runtime
+split/
+output_folder/
+input_folder/
+tmp*
+*.tmp
